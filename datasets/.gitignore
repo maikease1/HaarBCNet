@@ -1,0 +1,5 @@
+# Keep dataset instructions only. Raw data and archives stay local.
+*
+!*/
+!README.md
+!.gitignore
